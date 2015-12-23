@@ -21,5 +21,5 @@ from django.contrib import admin
 
 urlpatterns = [
 
-    url(r'^/', home)
+    url(r'', home)
 ]
